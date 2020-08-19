@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/ikostan/Build_Backend_REST_API_with_Python_and_Django.svg?branch=master)](https://travis-ci.org/ikostan/Build_Backend_REST_API_with_Python_and_Django)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c8581d51c457467a9e5d106e5acebd94)](https://www.codacy.com/manual/ikostan/Build_Backend_REST_API_with_Python_and_Django?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ikostan/Build_Backend_REST_API_with_Python_and_Django&amp;utm_campaign=Badge_Grade)
 
-# [Backend EST API with Python & Django](https://www.udemy.com/course/django-python-advanced)
+# [Backend REST API with Python & Django](https://www.udemy.com/course/django-python-advanced)
 
 <div align="center"> 
 <img width="9%" height="9%" src="https://github.com/ikostan/Build_Backend_REST_API_with_Python_and_Django/blob/master/img/python-icon-18.jpg" hspace="20">
@@ -17,33 +17,7 @@
 
 ### Create an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD)
 
-### Table of Contents
 
-1. <a href="#about">About</a>
-
-2. <a href="#main_objectives">Main Objectives</a>
-
-3. <a href="#topics">Tech Topics Covered</a>
-
-4. <a href="https://github.com/ikostan/Build_Backend_REST_API_with_Python_and_Django/tree/master/img">Icons Library</a>
-
-5. <a href="#resources">Official Web Resources</a>
-
-6. <a href="#moreresources">Additional Resources</a>
-
-7. <a href="#tech_issues">Tech Issues and Problem Solving</a>
-
-8. <a href="https://github.com/ikostan/Build_Backend_REST_API_with_Python_and_Django/tree/master/app">Django App:</a>
-
-   - <a href="https://github.com/ikostan/Build_Backend_REST_API_with_Python_and_Django/tree/master/app/app">Django App Configuration Files</a>
-   - <a href="https://github.com/ikostan/Build_Backend_REST_API_with_Python_and_Django/tree/master/app/core">Core app</a>
-
-### About
-<a id="about"></a>
-
-The advanced course on how to Build a Backend REST API using Python, Django (2.0), Django REST Framework (3.9), Docker, Travis CI, Postgres and Test Driven Development!
-
-The original course content was created by [Mark Winterbottom](https://linkedin.com/in/markwinterbottom/).
 
 ### The main goal is to built a fully functioning REST API that can handle
 <a id="main_objectives"></a>
